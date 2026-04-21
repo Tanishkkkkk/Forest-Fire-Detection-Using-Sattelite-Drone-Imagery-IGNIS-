@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.env
+.pytest_cache/
+
+# Node
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+fire_log.txt
+
+# Model weights and large artifacts
+*.pt
+.weights/
+
+# Large video files
+*.mp4
+
+# Training data (too large for GitHub)
+data/
+data_stage3/
+data_stage4/
+
+# FIRMS satellite data cache
+Frontend/firms_data/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# YOLO runs
+runs/
+
+# Labels cache
+*.cache
