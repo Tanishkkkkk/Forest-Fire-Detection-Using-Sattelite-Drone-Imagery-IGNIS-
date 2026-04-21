@@ -33,6 +33,7 @@ IGNIS is an advanced, real-time surveillance and detection system designed to co
 ## Data Sets
 Stage1(Small Fire and Medium Fires)- https://www.kaggle.com/datasets/azimjaan21/fire-and-smoke-dataset-object-detection-yolo
 Stage2(Indoor and Outdoor Fires )- https://www.kaggle.com/datasets/rachadlakis/firedataset-jpg-224
+
 Stage3(Medium and large Fires)- https://www.kaggle.com/datasets/kutaykutlu/forest-fire
 
 ### Prerequisites
