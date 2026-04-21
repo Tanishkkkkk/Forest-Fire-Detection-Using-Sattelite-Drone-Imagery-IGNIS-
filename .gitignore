@@ -19,6 +19,7 @@ fire_log.txt
 
 # Model weights and large artifacts
 *.pt
+!runs/detect/fire_stage113/weights/best.pt
 .weights/
 
 # Large video files
@@ -37,8 +38,15 @@ Frontend/firms_data/
 .idea/
 .DS_Store
 
-# YOLO runs
-runs/
+# YOLO runs (allow the final trained model folder only)
+runs/*
+!runs/detect/
+runs/detect/*
+!runs/detect/fire_stage113/
+runs/detect/fire_stage113/*
+!runs/detect/fire_stage113/weights/
+runs/detect/fire_stage113/weights/*
+!runs/detect/fire_stage113/weights/best.pt
 
 # Labels cache
 *.cache
