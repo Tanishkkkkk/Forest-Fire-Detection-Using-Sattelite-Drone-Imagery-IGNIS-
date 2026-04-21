@@ -1,6 +1,6 @@
-# IGRIS: Autonomous Forest Fire Detection & Monitoring System
+# IGNIS: Autonomous Forest Fire Detection & Monitoring System
 
-IGRIS is an advanced, real-time surveillance and detection system designed to combat forest fires using Artificial Intelligence and Drone technology. By leveraging state-of-the-art computer vision and a dynamic analytics dashboard, IGRIS provides early detection, precise localization, and rapid alerting to minimize environmental damage.
+IGNIS is an advanced, real-time surveillance and detection system designed to combat forest fires using Artificial Intelligence and Drone technology. By leveraging state-of-the-art computer vision and a dynamic analytics dashboard, IGRIS provides early detection, precise localization, and rapid alerting to minimize environmental damage.
 
 ## 🚀 Key Features
 
